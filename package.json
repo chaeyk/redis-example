@@ -12,7 +12,10 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
+    "@type-cacheable/core": "^14.0.1",
+    "@type-cacheable/ioredis-adapter": "^15.0.1",
     "ioredis": "^5.4.1",
+    "waait": "^1.0.5",
     "zod": "^3.23.8"
   }
 }
